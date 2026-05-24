@@ -224,13 +224,13 @@ arvoreChamados.emOrdem(c -> lista.adicionar(c.toJson()));
 ### Passo 1: Compilar o Backend
 ```
 cd backend
-compilar.bat
+.\compilar.bat
 ```
 
 ### Passo 2: Executar o Backend
 ```
 cd backend
-executar.bat
+.\executar.bat
 ```
 A API estara disponivel em `http://localhost:8080`
 

@@ -7,13 +7,13 @@ Sistema de simulacao de atendimento de chamados de suporte tecnico de informatic
 ### 1. Compilar o Backend
 ```
 cd backend
-compilar.bat
+.\compilar.bat
 ```
 
 ### 2. Iniciar o Backend
 ```
 cd backend
-executar.bat
+.\executar.bat
 ```
 A API estara disponivel em `http://localhost:8080`
 
